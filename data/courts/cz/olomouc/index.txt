@@ -1,3 +1,4 @@
-.. category:: v Olomouci
-   :category-id: cz:olomouc
-   :en: Olomouc
+.. category:: Vrchní soud v Olomouci
+
+   :category-id: cz:VSolomouc
+   :en: High Court Olomouc
