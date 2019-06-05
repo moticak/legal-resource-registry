@@ -1,3 +1,3 @@
-.. category:: v Hradci Králové
-   :category-id: cz:praha:hradec.kralove
-   :en: Hradec Králové
+.. category:: Krajský soud v Hradci Králové
+   :category-id: cz:VSP:KSHK
+   :en: Regional Court Hradec Králové
