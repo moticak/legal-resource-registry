@@ -1,3 +1,3 @@
-.. category:: v Ústí nad Labem
-   :category-id: cz:praha:usti.nad.labem
-   :en: Ústí nad Labem
+.. category:: Krajský soud v Ústí nad Labem
+   :category-id: cz:VSP:KSUL
+   :en: Regional Court Ústí nad Labem
